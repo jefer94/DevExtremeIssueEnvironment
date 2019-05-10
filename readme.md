@@ -4,18 +4,18 @@ It's a demo of a bug in DevExtreme, not work for nothing else https://www.devexp
 
 ## Run
 
-``sh
+``
 yarn dev
 ``
 
 ## Test
 
-``sh
+``
 yarn test
 ``
 
 ## Watch test
 
-``sh
+``
 yarn karma
 ``
